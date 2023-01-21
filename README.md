@@ -1,2 +1,2 @@
 # calculator-js-pro1
-Calculadora en HTM, CSS Y Javascript
+calculadora en HTM, CSS Y Javascript
